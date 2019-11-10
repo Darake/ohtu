@@ -22,6 +22,7 @@ public class StatisticsTest {
             players.add(kurri);
             players.add(new Player("Yzerman", "DET", 42, 56));
             players.add(new Player("Gretzky", "EDM", 35, 89));
+            new Player("Tervo", "Det")
 
             return players;
         }
