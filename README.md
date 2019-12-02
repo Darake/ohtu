@@ -1,2 +1,2 @@
 # ohtu
-Ohjelmistotuotanto -kurssin tehtävät
+Ohjelmistotuotanto -kurssin tehtävät.
